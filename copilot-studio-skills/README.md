@@ -1,11 +1,11 @@
 # Copilot Studio Scientific Skills
 
-Nine scientific skills converted for upload to Microsoft Copilot Studio (Build → Skills → Upload a skill).
+Ten scientific skills converted for upload to Microsoft Copilot Studio (Build → Skills → Upload a skill).
 
 - `zips/` — one ready-to-upload ZIP per skill, with `SKILL.md` at the ZIP root
 - `src/` — the unzipped contents of each ZIP, for review and editing
 
-Skills: literature-review, peer-review, scientific-writing, scientific-critical-thinking, scholar-evaluation, hypothesis-generation, statistical-analysis, exploratory-data-analysis, scientific-visualization.
+Skills: literature-review, peer-review, scientific-writing, scientific-critical-thinking, scholar-evaluation, hypothesis-generation, statistical-analysis, exploratory-data-analysis, scientific-visualization, scientific-brainstorming.
 
 ## Changes from the source
 
